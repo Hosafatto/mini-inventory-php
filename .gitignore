@@ -1,0 +1,10 @@
+/storage/*.sqlite
+/storage/*.sqlite-*
+/storage/*.db
+/storage/*.db-*
+/vendor/
+.env
+.env.*
+!.env.example
+*.log
+.phpunit.cache/
